@@ -8,7 +8,7 @@ require (
 	github.com/keybase/go-codec v0.0.0-20180928230036-164397562123
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/crypto v0.46.0
-	golang.org/x/sync v0.19.0
+	golang.org/x/sync v0.24.0
 )
 
 require (
